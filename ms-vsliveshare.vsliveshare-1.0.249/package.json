@@ -2087,7 +2087,7 @@
 		"json-stable-stringify": "^1.0.1",
 		"madge": "^3.2.0",
 		"minimist": "^1.2.0",
-		"mocha": "^6.0.2",
+		"mocha": "^10.2.0",
 		"mocha-trx-reporter": "^3.2.0",
 		"ncp": "^2.0.0",
 		"rewire": "^3.0.2",
