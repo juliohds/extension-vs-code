@@ -2090,7 +2090,7 @@
 		"mocha": "^6.0.2",
 		"mocha-trx-reporter": "^3.2.0",
 		"ncp": "^2.0.0",
-		"rewire": "^3.0.2",
+		"rewire": "^6.0.0",
 		"rimraf": "^2.6.3",
 		"terser-webpack-plugin": "^1.2.1",
 		"ts-loader": "^5.3.2",
